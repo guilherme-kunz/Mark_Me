@@ -50,4 +50,6 @@ dependencies {
     implementation "com.google.code.gson:gson:$gson_version"
     // Test
     testImplementation "junit:junit:$junit_version"
+    // Koin for Android
+    implementation "org.koin:koin-android:$koin_version"
 }
